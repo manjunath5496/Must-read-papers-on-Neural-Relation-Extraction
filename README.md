@@ -98,105 +98,99 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(49).pdf" style="text-decoration:none;">A Re-examination of Dependency Path Kernels for Relation Extraction </a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(50).pdf" style="text-decoration:none;">Open Information Extraction from the Web</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(51).pdf" style="text-decoration:none;">Gravitational waves from isolated systems: Surprising consequences of a positive cosmological constant</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(52).pdf" style="text-decoration:none;">Asymptotics with a positive cosmological constant: III. The quadrupole formula</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(51).pdf" style="text-decoration:none;">A Systematic Exploration of the Feature Space for Relation Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(52).pdf" style="text-decoration:none;">Relation Extraction with Matrix Factorization and Universal Schemas</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(53).pdf" style="text-decoration:none;">Symmetry Reduced Loop Quantum Gravity: A Bird's Eye View</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(53).pdf" style="text-decoration:none;">Distant Supervision for Relation Extraction with an Incomplete Knowledge Base</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(54).pdf" style="text-decoration:none;">Quantum Gravity in the Sky:
-Interplay between fundamental theory and observations </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(54).pdf" style="text-decoration:none;">Combining Recurrent and Convolutional Neural Networks for Relation Classification</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(55).pdf" style="text-decoration:none;">Initial conditions for cosmological perturbations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(55).pdf" style="text-decoration:none;">Multilingual Relation Extraction using Compositional Universal Schema</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(56).pdf" style="text-decoration:none;">Phenomenology with 
-fluctuating quantum geometries in loop quantum cosmology </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(56).pdf" style="text-decoration:none;">Simultaneously Self-Attending to All Mentions for Full-Abstract Biological Relation Extraction</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(57).pdf" style="text-decoration:none;">The Overview Chapter in
-Loop Quantum Gravity: The First 30 Years</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(57).pdf" style="text-decoration:none;">Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(58).pdf" style="text-decoration:none;">Implications of a positive cosmological constant for general relativity</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(59).pdf" style="text-decoration:none;">The kinematical Setup of Quantum Geometry: A Brief Review</a></li>
- 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(58).pdf" style="text-decoration:none;">Dependency Tree Kernels for Relation Extraction</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(59).pdf" style="text-decoration:none;">Combining Lexical, Syntactic, and Semantic Features with Maximum Entropy Models for Extracting Relations</a></li>
  
  
  
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(60).pdf" style="text-decoration:none;">On a basic conceptual confusion in gravitational radiation theory </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(61).pdf" style="text-decoration:none;">On the ambiguity in the notion of transverse traceless modes of gravitational waves</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(60).pdf" style="text-decoration:none;">Extracting Relations with Integrated Information Using Kernel Methods</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(62).pdf" style="text-decoration:none;">Quantum Transfiguration of Kruskal Black Holes</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(61).pdf" style="text-decoration:none;">Distant supervision for relation extraction without labeled data</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(63).pdf" style="text-decoration:none;">Quantum Extension of the Kruskal Space-time</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(62).pdf" style="text-decoration:none;">Word representations: A simple and general method for semi-supervised learning</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(63).pdf" style="text-decoration:none;">Beyond NomBank: A Study of Implicit Arguments for Nominal Predicates</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(64).pdf" style="text-decoration:none;">Null infinity, the BMS group and infrared issues</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(64).pdf" style="text-decoration:none;">Knowledge-BasedWeak Supervision for Information Extraction of Overlapping Relations</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(65).pdf" style="text-decoration:none;">Asymptotics with a positive cosmological constant: IV. The 'no-incoming radiation' condition </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(65).pdf" style="text-decoration:none;">End-to-End Relation Extraction Using Distant Supervision from External Semantic Repositories </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(66).pdf" style="text-decoration:none;">Compact binary coalescences: Constraints on waveforms</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(66).pdf" style="text-decoration:none;">Leveraging Linguistic Structure For Open Domain Information Extraction</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(67).pdf" style="text-decoration:none;">Compact binary coalescences:
-The subtle issue of angular momentum</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(67).pdf" style="text-decoration:none;">Classifying Relations by Ranking with Convolutional Neural Networks</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(68).pdf" style="text-decoration:none;">Black Hole evaporation:
-A Perspective from Loop Quantum Gravity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(68).pdf" style="text-decoration:none;">A Dependency-Based Neural Network for Relation Classification</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(69).pdf" style="text-decoration:none;">Alleviating the Tension in the Cosmic Microwave Background using Planck-Scale Physics</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(69).pdf" style="text-decoration:none;">End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(70).pdf" style="text-decoration:none;">Emergence of classical behavior in the early universe</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(70).pdf" style="text-decoration:none;">Relation Classification via Multi-Level Attention CNNs</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(71).pdf" style="text-decoration:none;">Properties of a recent quantum extension of the Kruskal geometry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(71).pdf" style="text-decoration:none;">Neural Relation Extraction with Selective Attention over Instances</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(72).pdf" style="text-decoration:none;">Isolated Horizons in 2 + 1 Gravity</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(72).pdf" style="text-decoration:none;">Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(73).pdf" style="text-decoration:none;">Dynamical Horizons: Energy, Angular Momentum, Fluxes and Balance Laws</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(74).pdf" style="text-decoration:none;">Quantum gravity, shadow states, and quantum mechanics</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(75).pdf" style="text-decoration:none;">Polymer and Fock representations for a Scalar field</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(76).pdf" style="text-decoration:none;">Mathematical structure of
-loop quantum cosmology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(73).pdf" style="text-decoration:none;">Neural Relation Extraction with Multi-lingual Attention</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(74).pdf" style="text-decoration:none;">A Walk-based Model on Entity Graphs for Relation Extraction</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(75).pdf" style="text-decoration:none;">Neural Open Information Extraction</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(76).pdf" style="text-decoration:none;">DocRED: A Large-Scale Document-Level Relation Extraction Dataset</a></li>
 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(77).pdf" style="text-decoration:none;">Non-minimally coupled scalar fields and isolated horizons</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(77).pdf" style="text-decoration:none;">Graph Neural Networks with Generated Parameters for Relation Extraction</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(78).pdf" style="text-decoration:none;">Non-minimal couplings, quantum geometry and black hole entropy</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(78).pdf" style="text-decoration:none;">DIAG-NRE: A Neural Pattern Diagnosis Framework for Distantly Supervised Neural Relation Extraction</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(79).pdf" style="text-decoration:none;">How Black Holes Grow</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(79).pdf" style="text-decoration:none;">Multi-Level Matching and Aggregation Network for Few-Shot Relation Classification</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(80).pdf" style="text-decoration:none;">Dynamical Horizons and their properties</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(80).pdf" style="text-decoration:none;">Matching the Blanks: Distributional Similarity for Relation Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(81).pdf" style="text-decoration:none;">Multipole Moments of Isolated Horizons </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(81).pdf" style="text-decoration:none;">Extracting RelationsWithin and Across Sentences </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(82).pdf" style="text-decoration:none;">BEYOND SPACE AND TIME</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(82).pdf" style="text-decoration:none;">Learning Field Compatibilities to Extract Database Records from Unstructured Text</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(83).pdf" style="text-decoration:none;">The Duel: Strings versus Loops</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(83).pdf" style="text-decoration:none;">SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations Between Pairs of Nominals</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(84).pdf" style="text-decoration:none;">Background Independent Quantum Gravity: A Status Report</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(84).pdf" style="text-decoration:none;">Relation Extraction: Perspective from Convolutional Neural Networks</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(85).pdf" style="text-decoration:none;">Isolated and Dynamical Horizons and Their Applications</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(85).pdf" style="text-decoration:none;">Row-less Universal Schema</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(86).pdf" style="text-decoration:none;">The Inverted Big-Bang</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(86).pdf" style="text-decoration:none;">Relational Learning of Pattern-Match Rules for Information Extraction</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(87).pdf" style="text-decoration:none;">Time before Time: Classifications of universes in contemporary cosmology, and how to avoid the antinomy of the beginning and eternity of the world</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(87).pdf" style="text-decoration:none;">Bidirectional Long Short-Term Memory Networks for Relation Classification</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(88).pdf" style="text-decoration:none;">MATTERS OF GRAVITY</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(88).pdf" style="text-decoration:none;">Position-aware Attention and Supervised Data Improve Slot Filling</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(89).pdf" style="text-decoration:none;">Gravity and the Quantum</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(90).pdf" style="text-decoration:none;">Quantum horizons and black hole entropy: Inclusion of distortion and rotation</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(91).pdf" style="text-decoration:none;">Some Uniqueness Results for Dynamical Horizons</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(92).pdf" style="text-decoration:none;">Black hole evaporation: A paradigm</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(89).pdf" style="text-decoration:none;">Semantic Compositionality through Recursive Matrix-Vector Spaces</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(90).pdf" style="text-decoration:none;">Connecting Language and Knowledge Bases with Embedding Models for Relation Extraction</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(91).pdf" style="text-decoration:none;">A Soft-label Method for Noise-tolerant Distantly Supervised Relation Extraction</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(92).pdf" style="text-decoration:none;">Preemptive Information Extraction using Unrestricted Relation Discovery</a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(93).pdf" style="text-decoration:none;">Semiclassical States for Constrained Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(93).pdf" style="text-decoration:none;">Combining Distant and Direct Supervision for Neural Relation Extraction</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(94).pdf" style="text-decoration:none;">WAS EINSTEIN RIGHT? TESTING RELATIVITY AT THE CENTENARY</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(94).pdf" style="text-decoration:none;">Exploring Various Knowledge in Relation Extraction</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(95).pdf" style="text-decoration:none;">Causal sets and the deep structure of spacetime</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(96).pdf" style="text-decoration:none;">Quantum geometry and the Schwarzschild singularity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(95).pdf" style="text-decoration:none;">A Composite Kernel to Extract Relations between Entities with both Flat and Structured Features</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-Neural-Relation-Extraction/blob/master/nrel(96).pdf" style="text-decoration:none;">Discrete-State Variational Autoencoders for Joint Discovery and Factorization of Relations</a></li>
 </ul>
